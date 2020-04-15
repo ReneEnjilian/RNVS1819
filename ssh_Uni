@@ -1,0 +1,5 @@
+ssh benutzername@rechnername 
+password 
+
+
+scp ...... olga.zharikova@cascada-ubu.eecsit.tu-berlin.de:~   // zum kopieren 

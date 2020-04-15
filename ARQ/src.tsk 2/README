@@ -1,0 +1,15 @@
+Beispielaufruf udp_redirect:
+
+./udp_redirect 127.0.0.1 4710 127.0.0.1 4711
+
+Beispielaufruf GoBackNReceiver.sol:
+
+./GoBackNReceiver.sol -l 4711 test2.jpg
+
+Beispielaufruf GoBackNSender.sol:
+
+./GoBackNSender.sol -r 4710 127.0.0.1 test.jpg
+
+Auf Gleichheit überprüfen:
+
+diff test.jpg test2.jpg

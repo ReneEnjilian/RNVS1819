@@ -1,0 +1,3 @@
+/Users/olga/Projekte/Code/RNVS/UDP_Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/olga/Projekte/Code/RNVS/UDP_Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/olga/Projekte/Code/RNVS/UDP_Client/cmake-build-debug/CMakeFiles/UDP_Client.dir
